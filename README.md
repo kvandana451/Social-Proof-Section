@@ -1,2 +1,2 @@
 # Social-Proof-Section
-This project is to implement and test layout skills.
+This project is to develop grid-layout using Css.
