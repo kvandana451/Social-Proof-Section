@@ -107,7 +107,7 @@ body{
     align-self:center;
   
 }
-.inner-grid-ele{
+.profile-main{
     align-self:center;
 }
 .profile-one,.profile-two,.profile-three{
@@ -118,16 +118,19 @@ padding:30px 15px;
 .profile-one{
    grid-row:1/4;
    grid-column:1/2;
+  
 }
 
 .profile-two {
   grid-row:2/5;
+ 
  
 
 }
 .profile-three{
   
     grid-row:3/6;
+  
    
   
 }
