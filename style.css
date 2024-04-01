@@ -13,15 +13,12 @@
 }
 html{
     border:2px dotted red;
-    /* min-height:100vh; */
-    height:100%;
+   
   
   
 }
 body{
-    /* min-height:100vh; */
-    min-height:100%;
-   /* margin:100px 130px; */
+    min-height:100vh;
    font-family:"League Spartan", sans-serif;
    background-image:url(images/bg-pattern-top-desktop.svg),url(images/bg-pattern-bottom-desktop.svg);
    background-repeat:no-repeat,no-repeat;
@@ -31,7 +28,6 @@ body{
 .container{
 
    max-width:700px;
-   /* max-height:100vh; */
     margin:5% auto;
 }
 
@@ -147,6 +143,7 @@ padding:30px 15px;
 .profile-desc{
     color:var(--white);
     font-size:.75rem; /*12px*/
+    margin-top:5px;
 }
 
 .attribution {
